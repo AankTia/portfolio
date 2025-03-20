@@ -1944,6 +1944,17 @@ section,
   font-size: 14px;
 }
 
+.skill-image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+}
+
+.skill-image-title {
+  text-align: center;
+}
+
 @media (max-width: 991px) {
 
   .service-details .service-info,
