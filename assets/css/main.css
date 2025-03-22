@@ -1973,6 +1973,12 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
+.portfolio-detail-category {
+  font-size: 14px;
+  color: var(--accent-color);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 500;
+  display: block;
+  margin-bottom: 10px;
 }
