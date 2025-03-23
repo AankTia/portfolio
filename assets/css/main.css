@@ -1982,3 +1982,13 @@ section,
   display: block;
   margin-bottom: 10px;
 }
+
+.portfolio-detail-list strong {
+  font-size: 14px;
+  color: color-mix(in srgb, var(--default-color), transparent 50%);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 500;
+  display: block;
+  margin-bottom: 3px;
+}
