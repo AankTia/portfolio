@@ -1,4 +1,4 @@
-# Alodokter ResApp Integration Portfoliio Detail
+# Alodokter Remote Diagnosis (ResApp Integration) Portfoliio Detail
 
 ## Project Overview
 **Client:** Alodokter  
